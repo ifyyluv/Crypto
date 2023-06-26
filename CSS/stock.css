@@ -1,0 +1,255 @@
+body {
+    background-color: black;
+    /* color: white; */
+}
+.nav{
+    color: red;
+     padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+    text-decoration: n;
+    color: white;
+}
+.chuks{
+    color: white;
+    font-size: 20px;
+    /* float: right;
+    margin-top: 50px;
+    margin-right: 80px; */
+}
+.bac {
+    border-radius: 80px;
+}
+.wal2 {
+    border-radius: 50px;
+}
+.vic{
+    color: white;
+    text-decoration: none;
+}
+.gon{
+    padding: 10px;
+    margin: 10px;
+    width: 98%;
+    height: 70hv;
+}
+/* All social media */
+.http {
+    text-align: center;
+}
+.face {
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.what {
+    background-color: green;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.insta {
+    background-color: purple;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.tweet {
+    background-color: rgb(63, 63, 196);
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+/* All social media ends here */
+
+/* CSS FOR HTML3 FORM */
+form {
+    width: 80%;
+    margin: 50px;
+}
+    .create {
+        text-align: center;
+        color: white;
+    }
+    .inn {
+        color: red;
+    }
+    .bee {
+        color: white;
+    }
+    .term {
+        color: gold;
+    }
+
+    .sub {
+        margin: 20px;
+        margin-left: 10px;
+        padding: 5px 80px;
+        background-color: gold;
+    }
+    .sub:hover {
+        color: gold;
+        background-color:white ;
+        padding: 10px 70px;
+    }
+.boo {
+    color: white;
+}
+#qon {
+    color: #3123f3;
+    text-decoration: no;
+}
+
+.qon2:hover {
+    background-color: gold;
+    color: black;
+}
+.qon2{
+    padding: 1px;
+    border-radius: 90px;
+    font-size: 25px;
+    width: 150px;
+}
+.aon{
+    margin-top: 30px;
+}
+.cryp {
+    color: white;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.more {
+    color: white;
+    font-size: 20px;
+}
+.container {
+text-align: center;
+}
+
+.xon{
+    color: white;
+    
+}
+
+.how{
+    color: white;
+    text-align: center;
+}
+.container{
+    color: rgb(201, 13, 13);
+    
+    
+}
+.win{
+    /* text-align: center; */
+    /* color: white; */
+    border-radius: 50px;
+    
+}
+.win2{
+    text-align: center;
+    color: white;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 10px;
+}
+.win2:hover{
+    background-color: red;
+    
+}
+
+.wal{
+    margin-top: 30px;
+    text-align: center;
+    color:white;
+}
+.wid {
+    margin: 80px
+}
+
+/* CSS FOR HTML2 FORM */
+.add {
+    color: white
+    
+}
+.sub2 {
+    margin: 20px;
+    margin-left: 10px;
+    padding: 5px 80px;
+    background-color: darkorange;
+}
+.sub2 :hover {
+    color: darkorange;
+    background-color: white;
+    padding: 10px 70px;
+}
+.vop{
+    background-color: white;
+    color: white;
+}
+.mzp{
+    text-decoration: none;
+     padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+
+}
+
+.mzp:hover{
+    text-decoration: none;
+    color: blue;
+}
+/* CSS FOR HTML4 FORM */
+.dad {
+    color: red;
+     padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+    text-decoration: n;
+    
+}
+.btc{
+    background-color: green;
+    border-radius: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.btc2{
+    margin: 50px;
+}
+.but{
+    border-radius: 7px;
+    text-align: center;
+    padding: 20px
+}
+
+.minex {
+    background-color: green;
+}
+.minex:hover{
+    background-color:white;
+    color: black  ;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
